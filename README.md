@@ -1,16 +1,36 @@
-### Hi there 👋
+### Salve 
 
-<!--
-**davibrabos/davibrabos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando em: 
 
-Here are some ideas to get you started:
+ Nada.
+ 
+- 🌱 Atualmente estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Todas as matérias possíveis quase.
+ 
+- 👯 Estou procurando colaborar em:
+
+ Com a minha vida.
+
+- 🤔 Estou precisando de ajuda com:
+
+ Tudo.
+
+- 💬 Pergunte-me sobre:
+
+ Futebol.
+
+- 📫 Como me encontrar:
+
+ davibrabos1@gmail.com;
+ @DaviBrabos no Twitter;
+ @brabosazevedo no Insta.
+
+- 😄 Pronomes: 
+
+ Ele/Dele
+
+- ⚡ Fun fact: 
+
+ "Homenageei" um jogador argentino batizando meu cachorro com o apelido dele.
+
