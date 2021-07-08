@@ -1,36 +1,36 @@
 ### Salve 
 
-- 🔭 Atualmente estou trabalhando em: 
+- 🔭 **Atualmente estou trabalhando em**: 
 
- Nada.
+ *Nada.*
  
-- 🌱 Atualmente estou estudando:
+- 🌱 **Atualmente estou estudando**:
 
- Todas as matérias possíveis quase.
+ *Todas as matérias possíveis quase.*
  
-- 👯 Estou procurando colaborar em:
+- 👯 **Estou procurando colaborar em*:
 
- Com a minha vida.
+ *Com a minha vida.*
 
-- 🤔 Estou precisando de ajuda com:
+- 🤔 **Estou precisando de ajuda com**:
 
  Tudo.
 
-- 💬 Pergunte-me sobre:
+- 💬 **Pergunte-me sobre**:
 
- Futebol.
+ *Futebol.*
 
-- 📫 Como me encontrar:
+- 📫 **Como me encontrar**:
 
  davibrabos1@gmail.com;
  [Insta] (https://www.instagram.com/brabosazevedo/)
  [Twitter] (https://twitter.com/DaviBrabos)
 
-- 😄 Pronomes: 
+- 😄 **Pronomes**: 
 
- Ele/Dele
+ *Ele/Dele*
 
-- ⚡ Fun fact: 
+- ⚡ **Fun fact**: 
 
- "Homenageei" um jogador argentino batizando meu cachorro com o apelido dele.
+ *"Homenageei" um jogador argentino batizando meu cachorro com o apelido dele.*
 
