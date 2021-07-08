@@ -14,7 +14,7 @@
 
 - 🤔 **Estou precisando de ajuda com**:
 
- Tudo.
+ *Tudo.*
 
 - 💬 **Pergunte-me sobre**:
 
@@ -22,9 +22,11 @@
 
 - 📫 **Como me encontrar**:
 
- davibrabos1@gmail.com;
- [Insta] (https://www.instagram.com/brabosazevedo/)
- [Twitter] (https://twitter.com/DaviBrabos)
+ **Email: davibrabos1@gmail.com**;
+ 
+ [Insta](https://www.instagram.com/brabosazevedo/)
+ 
+ [Twitter](https://twitter.com/DaviBrabos)
 
 - 😄 **Pronomes**: 
 
