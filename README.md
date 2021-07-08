@@ -23,8 +23,8 @@
 - 📫 Como me encontrar:
 
  davibrabos1@gmail.com;
- @DaviBrabos no Twitter;
- @brabosazevedo no Insta.
+ [Insta] (https://www.instagram.com/brabosazevedo/)
+ [Twitter] (https://twitter.com/DaviBrabos)
 
 - 😄 Pronomes: 
 
